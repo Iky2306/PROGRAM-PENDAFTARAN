@@ -34,7 +34,7 @@ if start.lower() == "y":
     pembayaran = input("\nApakah Anda sudah melakukan pembayaran? (y/n): ")
 
     if pembayaran.lower() == "y":
-        print("Pendaftaran berhasil! Selamat bergabung di universitas kami.")
+        print("Pendaftaran berhasil! Selamat bergabung di UNIVERSITAS TANGERANG RAYA.")
     else:
         print("Silakan selesaikan pembayaran untuk menyelesaikan pendaftaran.")
 
